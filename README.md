@@ -5,5 +5,4 @@
 
 ### _Data Indo Center - IPB SSRS Association_
 
-# dataindo-inaurb
-Data Indo Center for Indonesia Urban Monitoring System
+# INAURB: Data Indo Center for Indonesia Urban Monitoring System
