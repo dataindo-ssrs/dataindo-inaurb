@@ -8,7 +8,6 @@
 # INAURB: Data Indo Center for Indonesia Urban Monitoring System
 ssss
 ________________________________________________________________________________________________________________________________________________________
-________________________________________________________________________________________________________________________________________________________
 
 
  <br /> Production by <img src="https://github.com/dataindo-ssrs/.github/blob/94130856cca48a04559e95546de281fdf74d97f6/admin/Logo_DataIndo_Kanan.png" align="right" width="35%" />
